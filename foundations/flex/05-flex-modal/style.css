@@ -89,6 +89,5 @@ button.cancel {
 
 .options {
   display: flex;
-  max-width: 200px;
   gap: 4px;
 }
